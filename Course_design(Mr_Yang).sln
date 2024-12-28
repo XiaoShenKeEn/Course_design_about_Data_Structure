@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Course_design(Mr_Yang)", "Course_design(Mr_Yang)\Course_design(Mr_Yang).vcxproj", "{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Course_design", "Course_design\Course_design.vdproj", "{C90DE71C-4270-43F6-82D7-85BAC554B10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Debug|x64.ActiveCfg = Debug|x64
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Debug|x64.Build.0 = Debug|x64
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Debug|x86.Build.0 = Debug|Win32
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Release|x64.ActiveCfg = Release|x64
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Release|x64.Build.0 = Release|x64
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Release|x86.ActiveCfg = Release|Win32
+		{9BBE8A70-4516-4F9D-B2D3-2C2E7C97469E}.Release|x86.Build.0 = Release|Win32
+		{C90DE71C-4270-43F6-82D7-85BAC554B10B}.Debug|x64.ActiveCfg = Debug
+		{C90DE71C-4270-43F6-82D7-85BAC554B10B}.Debug|x86.ActiveCfg = Debug
+		{C90DE71C-4270-43F6-82D7-85BAC554B10B}.Release|x64.ActiveCfg = Release
+		{C90DE71C-4270-43F6-82D7-85BAC554B10B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6829A9DC-7F08-423C-A2B6-740F8DABDDD8}
+	EndGlobalSection
+EndGlobal

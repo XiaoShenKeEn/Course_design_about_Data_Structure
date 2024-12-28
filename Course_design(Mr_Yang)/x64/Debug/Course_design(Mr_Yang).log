@@ -1,0 +1,17 @@
+﻿  Course_design(Mr_Yang).cpp
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(41,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(217,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(682,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(683,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(684,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(685,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(1247,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(1940,22): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“TicketData *”
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(1973,9): warning C4101: “i”: 未引用的局部变量
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(2024,10): warning C4101: “name”: 未引用的局部变量
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(2023,13): warning C4101: “Data”: 未引用的局部变量
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(2022,15): warning C4101: “t”: 未引用的局部变量
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(2059,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“TicketData”
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(2139,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_project\Course_design(Mr_Yang)\Course_design(Mr_Yang)\Course_design(Mr_Yang).cpp(1573): warning C4715: “buybuybuy”: 不是所有的控件路径都返回值
+  Course_design(Mr_Yang).vcxproj -> D:\VS_project\Course_design(Mr_Yang)\x64\Debug\Course_design(Mr_Yang).exe
